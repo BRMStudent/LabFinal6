@@ -1,0 +1,15 @@
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.csproj.AssemblyReference.cache
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.AssemblyInfoInputs.cache
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.AssemblyInfo.cs
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.csproj.CoreCompileInputs.cache
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\bin\Debug\net6.0\LabFinal6.exe
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\bin\Debug\net6.0\LabFinal6.deps.json
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\bin\Debug\net6.0\LabFinal6.runtimeconfig.json
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\bin\Debug\net6.0\LabFinal6.dll
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\bin\Debug\net6.0\LabFinal6.pdb
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.dll
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\refint\LabFinal6.dll
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.pdb
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\LabFinal6.genruntimeconfig.cache
+C:\Users\baram\Desktop\LabTest\LabFinal6\LabFinal6\obj\Debug\net6.0\ref\LabFinal6.dll
